@@ -92,7 +92,7 @@ Load test files from the `tests/` directory to verify circuit functionality.
 6. **Pack**: Combine components into final result
 
 ### Performance Characteristics
-- **Latency**: # of clock cycles per operation
+- **Latency**: 6 of clock cycles per operation
 - **Resource Usage**: ~# of logic gates total
 
 ## 🔧 Development Notes
