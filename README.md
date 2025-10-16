@@ -63,20 +63,13 @@ Load test files from the `tests/` directory to verify circuit functionality.
 
 ## 👥 Team Members
 
-### TODO :
-- [ ] Assign roles to team members...
-
-### [Team Member 1 Name] - **Control Systems Architect**
+### Gabriel Bauer - **Control Systems Architect** - **Arithmetic Unit Specialist** - **Special Cases & I/O Engineer**
 - Designed and implemented the finite state machine controller
 - Developed the main circuit integration and timing
 - Created comprehensive test suites
-
-### [Team Member 2 Name] - **Arithmetic Unit Specialist** 
 - Implemented core arithmetic components (adder, shifter, comparator)
 - Optimized datapath for performance and resource usage
 - Developed normalization and rounding logic
-
-### [Team Member 3 Name] - **Special Cases & I/O Engineer**
 - Built input unpacking and output packing units
 - Implemented special case handling (NaN, zero, infinity)
 - Designed user interface and debugging displays
@@ -95,19 +88,13 @@ Load test files from the `tests/` directory to verify circuit functionality.
 - **Latency**: 6 clock cycles per operation
 - **Resource Usage**: ~# of logic gates total
 
-## 🔧 Development Notes
-
-This project was developed over a 10-week period as part of Computer Architecture at Plymouth State University. The implementation focuses on educational clarity while maintaining computational correctness.
-
 <!--### Challenges Overcome
  - --> 
 
 ## 🙏 Acknowledgments
 
-- Professor Peter Drexel for project guidance and Computer Architecture instruction
+- Professor Peter Drexel for Computer Hardware and Computer Architecture instruction
 - Logisim Evolution development team for the simulation environment
 - IEEE 754 standard reference documentation
 
 ---
-
-*Computer Architecture Final Project • Plymouth State University • Fall 2025*
